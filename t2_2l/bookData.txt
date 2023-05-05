@@ -1,0 +1,19 @@
+The intelligent Investor,Financial Literacy,images\\book1.jpg,280.00,11
+Rich dad Poor dad,Financial Literacy,images\\book2.jpg,580.00,11
+Stack your savings how to save money slash your spending and master your Finances,Financial Literacy,images\\book3.jpg,340.00,11
+The power of habit,Psychology,images\\book4.jpg,220.00,11
+Act like lady think like a man,Psychology,images\\book5.jpg,430.00,11
+Predictably irrational,Psychology,images\\book6.jpg,450.00,11
+Milk and honey,Poetry,images\\book7.jpg,430.99,11
+These are the hands,Poetry,images\\book8.jpg,330.99,11
+The sun and her flowers ,Poetry,images\\book9.jpg,550.99,11
+Criminal law,Law,images\\book200.jfif,300.99,11
+Lawyers desk book,Law,images\\book100.jfif,1300.99,11
+Barrons Law Dictionary,Law,images\\book300.jfif,3000.99,11
+Introduction to architecture,Architecture,images\\building3.jfif,150.99,11
+Fifty modern buildings,Architecture,images\\building2.jfif,288.99,11
+The iconic house,Architecture,images\\building1.jfif,1800.99,11
+The soul of a Doctor,Medicine,images\\doc2.jfif,210.99,11
+Med School Confidential,Medicine,images\\doc3.jfif,1000.99,11
+Computer Organized Cost Engineering,Engineering,images\\engeer1.jfif,300.99,11
+The Ulitimate Engineer,Engineering,images\\engeer2.jfif,740.99,11

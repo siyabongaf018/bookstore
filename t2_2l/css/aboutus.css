@@ -1,0 +1,32 @@
+
+.content{
+	position: absolute;
+width: 717px;
+height: 174px;
+left: 202px;
+top: 398px;
+
+font-family: 'M PLUS 1 Code';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 30px;
+
+color: #000000;
+}
+
+.hed{
+	position: absolute;
+width: 291px;
+height: 43px;
+left: 464px;
+top: 332px;
+
+font-family: 'M PLUS 1 Code';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 49px;
+
+color: #FDFBFB;
+}
